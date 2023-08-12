@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, Welcome to my place. I'm Rahgir Arefin Rafi. I hope you are doing well. :) </h1>
-<h3 align="center">A Mechatronics Engineering student and a wanderer of technical world. Focused on Artifical Intelligene, Robotics, Embedded System Development</h3>
+<h3 align="center">A Mechatronics Engineering student and a wanderer of technical world. Focused on Artifical Intelligence, Robotics, Embedded System Development</h3>
 
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Embedded System Development, PCB Designing**
