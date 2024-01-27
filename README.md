@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Embedded System Development, PCB Designing, OpenCV**
 
 - 📫 How to reach me **rahgirrafi@gmail.com**
-- 🌿 My LinkedIn Profile **rahgirrafi**
+- 🌿 My LinkedIn Profile **linkedin.com/in/rahgirrafi**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahgirrafi&show_icons=true&locale=en&layout=compact" alt="rahgirrafi" /></p>
 
