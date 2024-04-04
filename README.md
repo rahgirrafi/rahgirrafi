@@ -2,7 +2,7 @@
 <h3 align="center">A Mechatronics Engineering student and a wanderer of technical world. Focused on Artifical Intelligence, Robotics, Embedded System Development</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Embedded System Development, PCB Designing, OpenCV**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Embedded System Development, PCB Designing, OpenCV, ROS**
 
 - 📫 How to reach me **rahgirrafi@gmail.com**
 - 🌿 My LinkedIn Profile **linkedin.com/in/rahgirrafi**
